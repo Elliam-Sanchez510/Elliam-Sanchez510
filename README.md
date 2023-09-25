@@ -13,11 +13,4 @@ Soy un desarrollador frontend apasionado por crear experiencias web  funcionales
 - 👯 Estoy interesado en colaborar en proyectos web creativos.
 - 🤔 Siempre estoy buscando formas de mejorar la experiencia del usuario y la accesibilidad en mis proyectos.
 - 💬 Puedes preguntarme acerca de desarrollo frontend, diseño web, o cualquier pregunta relacionada.
-- 📫 Puedes contactarme en [elliamsanchez510@gmail.com](mailto:elliamsanchez510@gmail.com) o a través de [LinkedIn](https://www.linkedin.com/in/elliam-sánchez958aaa269/).
-
-
-### Mis proyectos destacados:
-
-- [Portfolio](elliamsanchez): Mi sitio web de portafolio personal para mostrar mis proyectos y habilidades.
-
-¡Gracias por visitar mi perfil de GitHub!
+- 📫 Puedes contactarme en [elliamsanchez510@gmail.com](mailto:elliamsanchez510@gmail.com) o a través de [LinkedIn](https://www.linkedin.com/in/elliam-s%C3%A1nchez-958aaa269/).

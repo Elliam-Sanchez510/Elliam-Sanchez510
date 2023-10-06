@@ -17,10 +17,10 @@ Soy un desarrollador frontend apasionado por crear experiencias web funcionales.
 - 🤔 Siempre estoy buscando formas de mejorar la experiencia del usuario y la accesibilidad en mis proyectos.
 - 💻 Para el backend, trabajo con:
 
-    ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+    [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+    [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+    [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+    [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
     
 - 💬 Puedes preguntarme acerca de desarrollo frontend, diseño web, o cualquier pregunta relacionada.
 - 📫 Puedes contactarme en [elliamsanchez510@gmail.com](mailto:elliamsanchez510@gmail.com) o a través de [LinkedIn](https://www.linkedin.com/in/elliam-s%C3%A1nchez-958aaa269/).

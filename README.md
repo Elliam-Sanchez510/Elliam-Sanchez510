@@ -24,4 +24,4 @@ I'm a passionate frontend developer who loves creating functional web experience
     
 - 💬 Feel free to ask me about frontend development, web design, or any related questions.
 - 📫 You can reach me at [elliamsanchez510@gmail.com](mailto:elliamsanchez510@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/elliam-s%C3%A1nchez-958aaa269/).
-- - 🌐 Explore my work on [portfolio](https://superb-daifuku-91d2b3.netlify.app/).
+- 🌐 Explore my work on [portfolio](https://superb-daifuku-91d2b3.netlify.app/).
